@@ -50,8 +50,8 @@
 ## Deep Generative Model (Base)
 - **Auto-Encoding Variational Bayes** <br> --VAE \[[pdf](https://arxiv.org/abs/1312.6114)\] :disappointed_relieved::disappointed_relieved:  :muscle:
 - **Generative Adversarial Networks** <br> --GAN \[[pdf](https://arxiv.org/abs/1406.2661)\] :disappointed_relieved:  :muscle:
-- **Conditional Generative Adversarial Nets** -CGAN \[[pdf](https://arxiv.org/abs/1411.1784)\]  :muscle:
-- **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** --DCGAN \[[pdf](https://arxiv.org/abs/1511.06434)\]  :muscle:
+- **Conditional Generative Adversarial Nets** <br> --CGAN \[[pdf](https://arxiv.org/abs/1411.1784)\]  :muscle:
+- **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** <br> --DCGAN \[[pdf](https://arxiv.org/abs/1511.06434)\]  :muscle:
 - **Improved Techniques for Training GANs** <br> --Improved GANs \[[pdf](https://arxiv.org/abs/1606.03498)\]
 - **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** --InfoGAN \[[pdf](https://arxiv.org/abs/1606.03657)\] :disappointed_relieved:
 - **Image-to-Image Translation with Conditional Adversarial Networks** <br> --pix2pix \[[pdf](https://arxiv.org/abs/1611.07004)\]  :muscle:
