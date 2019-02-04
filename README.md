@@ -53,7 +53,7 @@
 - **Conditional Generative Adversarial Nets** <br> --CGAN \[[pdf](https://arxiv.org/abs/1411.1784)\]  :muscle:
 - **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** <br> --DCGAN \[[pdf](https://arxiv.org/abs/1511.06434)\]  :muscle:
 - **Improved Techniques for Training GANs** <br> --Improved GANs \[[pdf](https://arxiv.org/abs/1606.03498)\]
-- **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** --InfoGAN \[[pdf](https://arxiv.org/abs/1606.03657)\] :disappointed_relieved:
+- **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets** <br> --InfoGAN \[[pdf](https://arxiv.org/abs/1606.03657)\] :disappointed_relieved:
 - **Image-to-Image Translation with Conditional Adversarial Networks** <br> --pix2pix \[[pdf](https://arxiv.org/abs/1611.07004)\]  :muscle:
 - **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** <br> --CycleGAN \[[pdf](https://arxiv.org/abs/1703.10593)\]  :muscle:
 - **Least Squares Generative Adversarial Networks** <br> --LSGAN \[[pdf](https://arxiv.org/abs/1611.04076)\]
