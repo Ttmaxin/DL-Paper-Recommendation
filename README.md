@@ -71,6 +71,7 @@
 - **Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization** <br> --AdaIN \[[pdf](https://arxiv.org/abs/1703.06868)\]  :muscle:
 
 ## Keypoints Detection
+- **Stacked Hourglass Networks for Human Pose Estimation** <br> --Hourglass \[[pdf](https://arxiv.org/abs/1603.06937)\]  :muscle:
 
 ## Light/Fast Model
 - **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications** <br> --MobileNet \[[pdf](https://arxiv.org/abs/1704.04861)\]  :muscle:
