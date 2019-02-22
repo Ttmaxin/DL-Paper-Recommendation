@@ -75,6 +75,10 @@
 ## Keypoints Detection
 - **Stacked Hourglass Networks for Human Pose Estimation** <br> --Hourglass \[[pdf](https://arxiv.org/abs/1603.06937)\]  :muscle:
 
+## CNN Insight
+- **ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness** <br> \[[pdf](https://openreview.net/pdf?id=Bygh9j09KX)\] :muscle:
+- **Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet** <br> --BagNet \[[pdf](https://openreview.net/pdf?id=SkfMWhAqYQ)\] :muscle:
+
 ## Light/Fast Model
 - **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications** <br> --MobileNet \[[pdf](https://arxiv.org/abs/1704.04861)\]  :muscle:
 - **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices** <br> --ShuffleNet \[[pdf](https://arxiv.org/abs/1707.01083)\]  :muscle:
