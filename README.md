@@ -61,7 +61,9 @@
 - **Wasserstein GAN** <br> --WGAN \[[pdf](https://arxiv.org/abs/1701.07875)\]:disappointed_relieved::disappointed_relieved::muscle:
 - **Improved Training of Wasserstein GANs** <br> --WGAN-GP \[[pdf](https://arxiv.org/pdf/1704.00028.pdf)\]  :muscle:
 - **CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training** <br> --CVAE-GAN \[[pdf](https://arxiv.org/abs/1703.10155)\]
+- **Spectral Normalization for Generative Adversarial Networks** <br> --Spectral Normalization \[[pdf](https://arxiv.org/abs/1802.05957)\]
 - **Dist-GAN: An Improved GAN using Distance Constraints** <br> --DistGAN \[[pdf](https://arxiv.org/abs/1803.08887)\]
+- **Self-Attention Generative Adversarial Networks** <br> --Self-Attention-GAN \[[pdf](https://arxiv.org/abs/1805.08318)\]
 - **A Style-Based Generator Architecture for Generative Adversarial Networks** <br> \[[pdf](https://arxiv.org/abs/1812.04948)\]
 
 ## Style Transfer
